@@ -4,7 +4,7 @@ This project implements pathfinding for a robotic manipulator on a plane using t
 
 ## Features
 
-- Uses **A* algorithm** for optimal pathfinding.
+- Uses A* for optimal pathfinding.
 - The map is divided into a grid with obstacles and reachable positions.
 - Handles 2D manipulator segments and obstacles for real-world scenarios.
 - Visualization of the pathfinding process.
